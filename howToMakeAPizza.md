@@ -1,4 +1,17 @@
 
+# **Ingredientes para preparar pizza**
+
+
+### **Ingredientes:**
+
+#### 200 gramos de Harina de trigo 
+#### 1 unidad de Cebolla 
+#### 250 gramos de Carne molida 
+#### 1 sobre de Salsa BBQ 
+#### 1 pizca de Sal y pimienta 
+#### 2 cucharadas soperas de Levadura seca 
+#### 2 cucharadas soperas de Pasta de tomate 
+
 ###Preparación salsa Barbacoa:
 
 1. Inicia lavando el cebollín, es necesario que quites la parte verde y las raices, luego las picas finas. 
@@ -29,3 +42,4 @@
 ###Picar la tocineta
 
 1. La tocineta la picas en en tiritas delgadas. 
+
