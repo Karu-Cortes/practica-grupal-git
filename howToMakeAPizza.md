@@ -4,13 +4,13 @@
 
 ### **Ingredientes:**
 
-- 200 gramos de Harina de trigo <br>
-- 1 unidad de Cebolla <br>
-- 250 gramos de Carne molida <br>
-- 1 sobre de Salsa BBQ <br>
-- 1 pizca de Sal y pimienta <br>
-- 2 cucharadas soperas de Levadura seca <br>
-- 2 cucharadas soperas de Pasta de tomate <br>
+#### 200 gramos de Harina de trigo 
+#### 1 unidad de Cebolla 
+#### 250 gramos de Carne molida 
+#### 1 sobre de Salsa BBQ 
+#### 1 pizca de Sal y pimienta 
+#### 2 cucharadas soperas de Levadura seca 
+#### 2 cucharadas soperas de Pasta de tomate 
 
 
 
