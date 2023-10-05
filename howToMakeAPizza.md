@@ -12,6 +12,8 @@
 #### 2 cucharadas soperas de Levadura seca 
 #### 2 cucharadas soperas de Pasta de tomate 
 
+## Paso 2:
+
 ###Preparación salsa Barbacoa:
 
 1. Inicia lavando el cebollín, es necesario que quites la parte verde y las raices, luego las picas finas. 
